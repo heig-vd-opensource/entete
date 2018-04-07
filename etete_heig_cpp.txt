@@ -1,0 +1,15 @@
+/*
+ -----------------------------------------------------------------------------------
+ Laboratoire : <nn>
+ Fichier     : <nom du fichier>.c
+ Auteur(s)   : <prénom> <nom>
+ Date        : <jj.mm.aaaa>
+
+ But         : <à compléter>
+
+ Remarque(s) : <à compléter>
+
+ Compilateur : MinGW-gcc <x.y.z>
+ -----------------------------------------------------------------------------------
+*/
+
